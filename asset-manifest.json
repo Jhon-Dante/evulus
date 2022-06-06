@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/evulus/static/css/main.0b4e74b4.css",
+    "main.js": "/evulus/static/js/main.453fab5d.js",
+    "static/js/787.cda76cf1.chunk.js": "/evulus/static/js/787.cda76cf1.chunk.js",
+    "static/media/evulus.svg": "/evulus/static/media/evulus.c075ac5c676e549cbce594784e74670c.svg",
+    "index.html": "/evulus/index.html",
+    "main.0b4e74b4.css.map": "/evulus/static/css/main.0b4e74b4.css.map",
+    "main.453fab5d.js.map": "/evulus/static/js/main.453fab5d.js.map",
+    "787.cda76cf1.chunk.js.map": "/evulus/static/js/787.cda76cf1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b4e74b4.css",
+    "static/js/main.453fab5d.js"
+  ]
+}
